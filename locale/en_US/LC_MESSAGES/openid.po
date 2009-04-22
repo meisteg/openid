@@ -1,0 +1,214 @@
+# OpenID module for phpWebSite
+#
+# See docs/CREDITS for copyright information
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-10 15:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, php-format
+msgid "%s could not be opened."
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Allow users to log in using OpenID"
+msgstr ""
+
+msgid "Another way to create your account"
+msgstr ""
+
+msgid "Are you sure you want to remove this OpenID?"
+msgstr ""
+
+msgid "Authentication failed."
+msgstr ""
+
+msgid "Change the OpenID settings for this site."
+msgstr ""
+
+msgid "Could not redirect to server. Try again later."
+msgstr ""
+
+msgid "Create account without using OpenID"
+msgstr ""
+
+msgid "Delegate Site"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Error saving the settings. Check error log for details."
+msgstr ""
+
+msgid "Finish"
+msgstr ""
+
+msgid "HTTP Fetching: An unexpected URL was returned."
+msgstr ""
+
+msgid "HTTP Fetching: Fetching failed!"
+msgstr ""
+
+msgid "HTTP Fetching: The redirected URL was not returned."
+msgstr ""
+
+msgid "HTTP Fetching: Unexpected HTTP status code."
+msgstr ""
+
+msgid "HTTP Fetching: Unexpected data was returned."
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Missing an email address."
+msgstr ""
+
+msgid "Missing or invalid input. Please correct and try again."
+msgstr ""
+
+msgid "New Account Sign-up"
+msgstr ""
+
+msgid "No OpenID identifiers linked to this account."
+msgstr ""
+
+msgid "OpenID"
+msgstr ""
+
+msgid "OpenID Identifier"
+msgstr ""
+
+msgid "OpenID Identifiers"
+msgstr ""
+
+msgid "OpenID Log In"
+msgstr ""
+
+msgid "OpenID Provider Server URL"
+msgstr ""
+
+msgid "OpenID added to your account."
+msgstr ""
+
+msgid ""
+"OpenID is a decentralised authentication system that lets you\n"
+"            sign in to web sites with a single URL. This eliminates the need "
+"for multiple usernames across different\n"
+"            websites. With OpenID, you have a single password with a "
+"Provider that you trust. Best of all, it is\n"
+"            completely free!"
+msgstr ""
+
+msgid "OpenID login is not enabled at this time."
+msgstr ""
+
+msgid "OpenID not registered in database."
+msgstr ""
+
+msgid "OpenID table removed."
+msgstr ""
+
+msgid "Please specify an OpenID identifier."
+msgstr ""
+
+msgid "Please try another display name."
+msgstr ""
+
+msgid "Please try another user name."
+msgstr ""
+
+msgid "Provider supports OpenID 2.0"
+msgstr ""
+
+msgid "Randomness source appears to be a regular file."
+msgstr ""
+
+msgid "Reading from randomness source failed."
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in using OpenID"
+msgstr ""
+
+msgid "Sign in with an OpenID"
+msgstr ""
+
+msgid "Specified identifier does not appear to be a valid OpenID."
+msgstr ""
+
+msgid "This email address cannot be used."
+msgstr ""
+
+msgid "Update Settings"
+msgstr ""
+
+msgid "User account for this site is not active."
+msgstr ""
+
+msgid ""
+"User signup mode is set to not allowed,\n"
+"                                 so users will only be able to map their "
+"OpenID to an existing site user."
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Verification cancelled."
+msgstr ""
+
+msgid ""
+"Verify your account information then click finish to complete registration."
+msgstr ""
+
+msgid "What is OpenID?"
+msgstr ""
+
+msgid "XML parsing support is absent."
+msgstr ""
+
+msgid ""
+"Your PHP installation does not support SSL, so it will NOT\n"
+"                                  be able to process HTTPS URLs."
+msgstr ""
+
+msgid "Your settings have been successfully saved."
+msgstr ""

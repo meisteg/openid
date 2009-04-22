@@ -1,0 +1,46 @@
+# INSTALL for OpenID Module
+# $Id: INSTALL,v 1.2 2008/07/11 16:23:33 blindman1344 Exp $
+
+
+===== IMPORTANT =====
+
+This version of the OpenID module requires phpWebSite 1.5.2 or higher. You
+have to install phpWebSite >= 1.5.2 first - earlier versions of phpWebSite
+will not work.
+
+If you don't have phpWebSite installed, first get the latest code here:
+http://sourceforge.net/project/showfiles.php?group_id=15539
+
+Then follow the install instructions found in the INSTALL file included in
+the docs directory of that download. Once this is done then you can start
+installing the OpenID module.
+
+
+===== INSTALLATION =====
+
+1. BACKUP YOUR DATABASE.  Never install this or any other module without
+   doing this.
+
+2. Download the .tar.gz or .zip file from sourceforge and unpack it.
+
+3. Move the new directory into your phpwebsite mod directory.
+
+    Example: If your phpwebsite directory is /home/httpd/htdocs, you would run:
+
+    mv openid /home/httpd/htdocs/mod/openid
+
+4. Go to your phpWebSite and install or upgrade "OpenID" from the Boost module.
+
+5. Log out and log back in to your site to reset your environment before
+   using the module.
+
+   The module is now installed.  You can get there by going to "Control Panel"
+   and clicking on "Administration".
+
+
+===== PROBLEMS? =====
+
+If you are having trouble with these procedures please file a Support Request
+at our sourceforge.net project site:
+
+http://sourceforge.net/tracker/?func=browse&group_id=81360&atid=1037805

@@ -1,0 +1,27 @@
+OpenID module for phpWebSite
+http://sourceforge.net/projects/phpwebsite-comm
+
+
+BUGS
+----
+If you have any bugs to report, file them at:
+http://sourceforge.net/tracker/?atid=1037805&group_id=81360&func=browse
+
+Please be sure to search any existing bugs to avoid duplicates.
+
+CHANGELOG
+---------
+See docs/ChangeLog for history of changes.
+
+INSTALLATION
+------------
+See docs/INSTALL for installation instructions.
+
+LICENSE
+-------
+This software is licensed for use under the GNU GPL v2.
+See docs/COPYING for the full text of the license.
+
+VERSION
+-------
+Version is listed as $version in boost/boost.php

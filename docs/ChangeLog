@@ -1,0 +1,18 @@
+# ChangeLog for OpenID Module
+# $Id: ChangeLog,v 1.5 2008/07/11 17:42:43 blindman1344 Exp $
+
+
+*openid-1.0.2 (11 Jul 2008)
+
+    Now using PHP OpenID 2.1.1 library.
+    Added calls to cacheQueries and addSortHeader when using DBPager.
+    RFE #1988287: Added remove_user.php to support new User mod feature.
+
+*openid-1.0.1 (24 May 2008)
+
+    BUG #1962019: Changed module priority so it starts sooner.
+    Now using PHP OpenID 2.0.1 library.
+
+*openid-1.0.0 (10 Jan 2008)
+
+    Initial version.

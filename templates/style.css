@@ -1,0 +1,14 @@
+/* $Id: style.css,v 1.1.1.1 2008/02/04 04:54:30 blindman1344 Exp $ */
+
+input.openid {
+  background-image: url(../../images/mod/openid/openid_small_logo.png);
+  background-repeat: no-repeat;
+  background-position: 0 50%;
+  padding-left: 18px;
+}
+
+/* When FORCE_MOD_TEMPLATES is true, the logo path needs to change.  This
+ * class will be used in that case. */
+input.openid_mod {
+  background-image: url(../../../images/mod/openid/openid_small_logo.png);
+}
