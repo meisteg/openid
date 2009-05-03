@@ -23,7 +23,7 @@
  */
 
 $proper_name  = 'OpenID';
-$version      = '1.0.2';
+$version      = '1.0.3';
 $register     = FALSE;
 $unregister   = FALSE;
 $import_sql   = TRUE;

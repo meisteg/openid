@@ -37,6 +37,9 @@ function openid_update(&$content, $currentVersion)
             $content[] = '- Now using PHP OpenID 2.1.1 library.';
             $content[] = '- Added calls to cacheQueries and addSortHeader when using DBPager.';
             $content[] = '- Added remove_user.php to support new User mod feature.';
+
+        case version_compare($currentVersion, '1.0.3', '<'):
+            $content[] = '- Now using PHP OpenID 2.1.3 library.';
     }
 
     return true;

@@ -1,6 +1,8 @@
 # ChangeLog for OpenID Module
 
 
+*openid-1.0.3 (03 May 2009)
+
     GH #2: Replace references to SourceForge with GitHub.
     GH #1: Now using PHP OpenID 2.1.3 library.
 
