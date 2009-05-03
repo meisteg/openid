@@ -18,8 +18,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author Greg Meiste <blindman1344 at users dot sourceforge dot net>
- * @version $Id: settings.php,v 1.3 2008/02/10 21:28:39 blindman1344 Exp $
+ * @package OpenID
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 $settings = array('allow_openid'    => 0,

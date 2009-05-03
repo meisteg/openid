@@ -18,8 +18,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author      Greg Meiste <blindman1344@NOSPAM.users.sourceforge.net>
- * @version     $Id: config.php,v 1.2 2008/02/10 16:17:09 blindman1344 Exp $
+ * @package OpenID
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 /**

@@ -1,13 +1,11 @@
-$Id: CREDITS,v 1.1.1.1 2008/02/04 04:54:30 blindman1344 Exp $
-
 Credits and Acknowledgements
 
-OpenID module for phpWebSite is copyright (C) 2008 by those listed in the
+OpenID module for phpWebSite is copyright (C) 2008-2009 by those listed in the
 Developers section below.
 
 Developers:
 ~~~~~~~~~~~
- - Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+ - Greg Meiste <greg.meiste+github@gmail.com>
 
 Acknowledgements for Inspiration:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

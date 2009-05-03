@@ -18,8 +18,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author      Greg Meiste <blindman1344@NOSPAM.users.sourceforge.net>
- * @version     $Id: OpenID_Admin.php,v 1.6 2008/02/10 21:28:36 blindman1344 Exp $
+ * @package OpenID
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 class OpenID_Admin

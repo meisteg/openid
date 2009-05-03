@@ -18,8 +18,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author      Greg Meiste <blindman1344@NOSPAM.users.sourceforge.net>
- * @version     $Id: close.php,v 1.3 2008/07/11 16:23:34 blindman1344 Exp $
+ * @package OpenID
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 OpenID_Runtime::delegate();

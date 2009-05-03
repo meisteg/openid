@@ -18,8 +18,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author      Greg Meiste <blindman1344@NOSPAM.users.sourceforge.net>
- * @version     $Id: my_page.php,v 1.1 2008/02/06 04:40:25 blindman1344 Exp $
+ * @package OpenID
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 function my_page()

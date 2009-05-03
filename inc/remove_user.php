@@ -18,8 +18,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author  Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
- * @version $Id: remove_user.php,v 1.1 2008/07/11 16:23:34 blindman1344 Exp $
+ * @package OpenID
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 function openid_remove_user($user_id)

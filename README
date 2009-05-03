@@ -1,11 +1,11 @@
 OpenID module for phpWebSite
-http://sourceforge.net/projects/phpwebsite-comm
+http://github.com/meisteg/openid
 
 
 BUGS
 ----
 If you have any bugs to report, file them at:
-http://sourceforge.net/tracker/?atid=1037805&group_id=81360&func=browse
+http://github.com/meisteg/openid/issues
 
 Please be sure to search any existing bugs to avoid duplicates.
 
